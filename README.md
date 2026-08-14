@@ -17,7 +17,7 @@ Day to day that means:
 - 🏛️ Architecting secure, compliant, multi-tenant systems for regulated and public-facing environments
 - ☁️ Designing **Azure** landing zones and cloud-native platforms end-to-end — not just deploying to them
 - 🤖 Building **RAG pipelines** and LLM-backed services with **FastAPI**, vector search, and orchestration frameworks
-- 🖥️ Shipping cross-platform desktop apps with **Tauri** + **Rust**, alongside **Go** services and **Python** tooling
+- 🖥️ Shipping cross-platform desktop apps with **Tauri**, alongside **Go** services and **Python** tooling
 - 🧭 Owning release trains, branching strategy, and delivery cadence across multiple teams and workstreams
 - 🤝 Pair programming with **Claude Code** and **Codex**, and orchestrating enterprise-scale delivery with Claude Skills and multi-agent workflows
 
@@ -28,7 +28,7 @@ Day to day that means:
 - **Enterprise & secure systems** — 15+ years architecting systems for regulated public-sector and high-trust private-sector environments, with security and compliance designed in from day one, not bolted on
 - **AI-native engineering** — production RAG applications, LLM integration, and FastAPI services, plus daily AI-augmented delivery pairing with Claude Code and Codex
 - **AI orchestration at scale** — using Claude Skills and agentic workflows to coordinate large enterprise codebases, not just individual tasks — turning AI tooling into a force multiplier across teams
-- **Full-spectrum stack fluency** — equally comfortable in .NET/C#, Python, Rust, Go, and modern JS/TS, choosing the right tool per problem rather than a single hammer
+- **Full-spectrum stack fluency** — equally comfortable in .NET/C#, Python, Go, and modern JS/TS, choosing the right tool per problem rather than a single hammer
 - **Delivery & release ownership** — managing branching strategy, multi-team release trains, and coordinated deployments across large engineering organizations
 - **Quality as a first-class concern** — E2E and unit coverage via **xUnit** and **Playwright**, built into the pipeline rather than bolted on after the fact
 - **Cloud depth, not just cloud breadth** — full Azure lifecycle from landing zone and networking to compute, data, caching, and observability
@@ -40,7 +40,6 @@ Day to day that means:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -50,6 +49,7 @@ Day to day that means:
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
