@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Pavan+Kumar+%F0%9F%91%8B;Software+Architect+%C2%B7+AI+Architect;Cloud+%26+Distributed+Systems" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavankomma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankomma)
+[![GitHub](https://img.shields.io/badge/GitHub-pavankomma-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pavankomma)
 
 </div>
 
@@ -123,64 +124,58 @@ I work across the complete Azure lifecycle rather than treating Azure as simply 
 
 ## 💻 Technology Stack
 
-### Backend
+**Backend**
 
-* C#
-* .NET / ASP.NET Core
-* Python
-* Go
-* FastAPI
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Frontend
+**Frontend**
 
-* Angular
-* TypeScript
-* JavaScript
-* Modern Web Components
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Web Components](https://img.shields.io/badge/Web_Components-29ABE2?style=flat-square&logo=webcomponentsdotorg&logoColor=white)
 
-### Data
+**Data**
 
-* SQL Server
-* Azure SQL
-* Oracle
-* PostgreSQL
-* MySQL
-* Cosmos DB
-* Redis
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=azurecosmosdb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Messaging
+**Messaging & Background Processing**
 
-* Azure Service Bus
-* RabbitMQ
-* Kafka
-* Event Grid
+![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Event Grid](https://img.shields.io/badge/Event_Grid-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-004D40?style=flat-square)
+![Quartz.NET](https://img.shields.io/badge/Quartz.NET-3B5998?style=flat-square)
 
-### Background Processing
+**Testing**
 
-* Hangfire
-* Quartz.NET
+![xUnit](https://img.shields.io/badge/xUnit-5B2C6F?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-25A162?style=flat-square)
+![Performance Testing](https://img.shields.io/badge/Performance_%26_Load_Testing-F97316?style=flat-square)
 
-### Testing
+**Security & Identity**
 
-* xUnit
-* Integration Testing
-* Playwright
-* End-to-End Testing
-* API Testing
-* Performance & Load Testing
-
-### Security & Identity
-
-* Microsoft Entra ID
-* Auth0
-* Okta
-* OAuth 2.0
-* OpenID Connect
-* JWT
-* Managed Identity
-* Key Vault
-* API Security
-* Zero Trust Architecture
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square&logo=oauth&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Key Vault](https://img.shields.io/badge/Key_Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-8B5CF6?style=flat-square)
 
 ---
 
@@ -289,6 +284,12 @@ The goal is to build the **right system** — one that can evolve as the busines
 
 ---
 
+<div align="center">
+
 ### ⚡ Architect for scale. Build for security. Engineer for change.
 
 **Pavan Kumar**
+
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankomma)
+
+</div>
