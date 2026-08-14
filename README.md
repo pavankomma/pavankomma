@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Pavan+Kumar+%F0%9F%91%8B;Software+Architect+%7C+15%2B+Years;Enterprise+%26+Secure+Systems+%7C+Cloud+%7C+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Pavan+Kumar+%F0%9F%91%8B;Software+Architect+%C2%B7+AI+Architect;Cloud+%26+Distributed+Systems" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavankomma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankomma)
 
@@ -8,135 +8,285 @@
 
 ---
 
-### 👨‍💻 About Me
+I'm a **Software Architect with 15+ years of experience** designing, building, and evolving secure, scalable enterprise platforms across public-sector and private-sector environments.
 
-I'm a Software Architect with **15+ years** designing, building, and hardening systems for large enterprises across both **public and private sector** domains — where security, scale, and long-term maintainability aren't optional. I work end-to-end: from architecture decisions and cloud infrastructure down to the line of code, and from a single service to a portfolio of teams shipping in parallel.
+I work across the full engineering lifecycle — from **architecture and domain modeling to cloud infrastructure, distributed systems, security, AI integration, and production delivery**.
 
-Day to day that means:
+My focus is simple:
 
-- 🏛️ Architecting secure, compliant, multi-tenant systems for regulated and public-facing environments
-- ☁️ Designing **Azure** landing zones and cloud-native platforms end-to-end — not just deploying to them
-- 🤖 Building **RAG pipelines** and LLM-backed services with **FastAPI**, vector search, and orchestration frameworks
-- 🖥️ Shipping cross-platform desktop apps with **Tauri**, alongside **Go** services and **Python** tooling
-- 🧭 Owning release trains, branching strategy, and delivery cadence across multiple teams and workstreams
-- 🤝 Pair programming with **Claude Code** and **Codex**, and orchestrating enterprise-scale delivery with Claude Skills and multi-agent workflows
+> **Design systems that scale, remain secure, and are built to evolve.**
 
 ---
 
-### 🏛️ What I Bring to an Architect Role
+## 🏗️ What I Do
 
-- **Enterprise & secure systems** — 15+ years architecting systems for regulated public-sector and high-trust private-sector environments, with security and compliance designed in from day one, not bolted on
-- **AI-native engineering** — production RAG applications, LLM integration, and FastAPI services, plus daily AI-augmented delivery pairing with Claude Code and Codex
-- **AI orchestration at scale** — using Claude Skills and agentic workflows to coordinate large enterprise codebases, not just individual tasks — turning AI tooling into a force multiplier across teams
-- **Full-spectrum stack fluency** — equally comfortable in .NET/C#, Python, Go, and modern JS/TS, choosing the right tool per problem rather than a single hammer
-- **Delivery & release ownership** — managing branching strategy, multi-team release trains, and coordinated deployments across large engineering organizations
-- **Quality as a first-class concern** — E2E and unit coverage via **xUnit** and **Playwright**, built into the pipeline rather than bolted on after the fact
-- **Cloud depth, not just cloud breadth** — full Azure lifecycle from landing zone and networking to compute, data, caching, and observability
-
----
-
-### 🧩 Software Design & Distributed Systems
-
-- **Domain-Driven Design** — bounded contexts, aggregates, and ubiquitous language to keep large domains from collapsing into a shared mud ball
-- **Microservices & service boundaries** — decomposing monoliths along team and domain lines, with clear contracts and independent deployability
-- **Event-driven architecture** — pub/sub, event sourcing, and CQRS to decouple services and scale reads/writes independently
-- **Distributed data patterns** — outbox/inbox, sagas, and eventual consistency for transactions that span service boundaries
-- **Resilience patterns** — retries with backoff, circuit breakers, bulkheads, and idempotency to keep failures from cascading
-- **API & messaging design** — REST and gRPC contracts, plus message-broker integration (**RabbitMQ**, Service Bus, Kafka-style event streams) for async workflows
-- **Background processing & scheduling** — durable job execution and recurring/cron workloads with **Hangfire** and **Quartz.NET**, from fire-and-forget tasks to multi-step distributed workflows
-- **Scalability & caching strategy** — horizontal scaling, cache-aside with **Redis**, and load-aware design for high-throughput, multi-tenant systems
-- **Classic design fundamentals** — SOLID, GoF patterns, and clean layering applied pragmatically, not dogmatically, across polyglot codebases
+* **Enterprise Architecture** — Design large-scale platforms, service boundaries, integration patterns, and technical strategies.
+* **Distributed Systems** — Build resilient, event-driven and highly available systems using microservices, CQRS, messaging, and asynchronous workflows.
+* **Cloud Architecture** — Design Azure platforms end-to-end, including landing zones, networking, identity, compute, data, security, and observability.
+* **AI & Agentic Systems** — Build RAG applications, LLM-powered services, AI agents, tool orchestration, and AI-assisted engineering workflows.
+* **Application Security** — Design security into architecture using zero-trust principles, identity, secrets management, API security, and defense-in-depth.
+* **Engineering Platforms** — Establish reusable patterns, development standards, CI/CD, observability, testing, and release strategies.
+* **Technical Leadership** — Drive architecture decisions across teams while balancing engineering quality, delivery speed, cost, and long-term maintainability.
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 Architecture Expertise
 
-**Languages**
+### Software & Distributed Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* Domain-Driven Design (DDD)
+* Bounded Contexts & Aggregates
+* Microservices Architecture
+* Modular Monoliths
+* Event-Driven Architecture
+* CQRS
+* Event Sourcing
+* Saga Patterns
+* Outbox / Inbox Patterns
+* Eventual Consistency
+* Idempotency
+* Distributed Transactions
+* API & Integration Architecture
+* REST & gRPC
+* Asynchronous Messaging
+* Background Processing
+* Distributed Caching
+* Horizontal Scaling
+* High Availability & Fault Tolerance
 
-**Backend, AI & RAG**
+### Resilience
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+I design systems assuming that **dependencies will fail**.
 
-**Frontend & Desktop**
+Common patterns include:
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-
-**Data & Caching**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Messaging & Background Jobs**
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-004D40?style=flat-square)
-![Quartz.NET](https://img.shields.io/badge/Quartz.NET-3B5998?style=flat-square)
-
-**Testing & Quality**
-
-![xUnit](https://img.shields.io/badge/xUnit-5B2C6F?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-**Identity & Security**
-
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
-
-**Cloud & DevOps**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+* Retry with exponential backoff
+* Circuit breakers
+* Bulkheads
+* Timeouts
+* Rate limiting
+* Idempotent operations
+* Dead-letter processing
+* Graceful degradation
+* Health checks
+* Failure isolation
 
 ---
 
-### ☁️ Azure, End to End
+## 🤖 AI & Agentic Engineering
 
-I design and operate the full Azure lifecycle, not just a deployment target:
+I'm particularly interested in the intersection of **enterprise software architecture and AI**.
 
-| Layer | What I work with |
-|---|---|
-| **Landing zone & network** | Subscriptions, resource hierarchy, VNets, private endpoints, NSGs |
-| **Compute** | App Service, AKS, Azure Functions, Container Apps |
-| **Data & caching** | Azure SQL, Cosmos DB, Azure Cache for Redis, Blob Storage |
-| **AI & integration** | Azure OpenAI Service, API Management, Service Bus, Event Grid |
-| **Identity & security** | Entra ID, Key Vault, Managed Identities, Auth0/Okta integration |
-| **Delivery & observability** | Azure DevOps / GitHub Actions pipelines, Application Insights, Log Analytics |
+Areas I work with include:
+
+* LLM-powered applications
+* Retrieval-Augmented Generation (RAG)
+* Vector search
+* Semantic retrieval
+* AI data-intake workflows
+* Tool-using agents
+* Agent orchestration
+* Multi-agent workflows
+* Human-in-the-loop systems
+* Structured LLM outputs
+* AI evaluation and guardrails
+* AI-assisted software development
+
+I use AI as part of the engineering system — not simply as a chatbot.
+
+That includes using AI to accelerate:
+
+**Architecture → Design → Coding → Testing → Code Review → Migration → Documentation → Delivery**
 
 ---
 
-### 🚀 Engineering & Delivery Practices
+## ☁️ Azure Architecture
 
-- Coordinating branching strategy, release trains, and hotfix flows across multiple teams and workstreams in parallel
-- Driving E2E and regression confidence with **Playwright** and unit/integration coverage with **xUnit**
-- Using **Claude Skills** and agent orchestration to standardize how large codebases get reviewed, migrated, and shipped — treating AI tooling as part of the engineering system, not a side experiment
-- Balancing architectural rigor for regulated/public-sector work with the speed expected in modern private-sector product delivery
+I work across the complete Azure lifecycle rather than treating Azure as simply a deployment target.
+
+| Area          | Technologies                                          |
+| ------------- | ----------------------------------------------------- |
+| Architecture  | Azure Landing Zones, Management Groups, Subscriptions |
+| Networking    | VNets, Private Endpoints, NSGs, Private DNS           |
+| Compute       | App Service, AKS, Azure Functions, Container Apps     |
+| Data          | Azure SQL, Cosmos DB, Blob Storage                    |
+| Caching       | Azure Cache for Redis                                 |
+| Integration   | API Management, Service Bus, Event Grid               |
+| AI            | Azure OpenAI, AI Search                               |
+| Identity      | Microsoft Entra ID, Managed Identity                  |
+| Security      | Key Vault, RBAC, Zero Trust                           |
+| Observability | Application Insights, Log Analytics                   |
+| DevOps        | Azure DevOps, GitHub Actions                          |
+| Containers    | Docker, Kubernetes                                    |
 
 ---
 
-<div align="center">
+## 💻 Technology Stack
 
-*I architect for scale, build for security, and ship with AI as a teammate.*
+### Backend
 
-</div>
+* C#
+* .NET / ASP.NET Core
+* Python
+* Go
+* FastAPI
+
+### Frontend
+
+* Angular
+* TypeScript
+* JavaScript
+* Modern Web Components
+
+### Data
+
+* SQL Server
+* Azure SQL
+* Oracle
+* PostgreSQL
+* MySQL
+* Cosmos DB
+* Redis
+
+### Messaging
+
+* Azure Service Bus
+* RabbitMQ
+* Kafka
+* Event Grid
+
+### Background Processing
+
+* Hangfire
+* Quartz.NET
+
+### Testing
+
+* xUnit
+* Integration Testing
+* Playwright
+* End-to-End Testing
+* API Testing
+* Performance & Load Testing
+
+### Security & Identity
+
+* Microsoft Entra ID
+* OAuth 2.0
+* OpenID Connect
+* JWT
+* Managed Identity
+* Key Vault
+* API Security
+* Zero Trust Architecture
+
+---
+
+## 🚀 Engineering & Delivery
+
+I believe architecture only matters when it can be **successfully delivered and operated**.
+
+My engineering practices include:
+
+* CI/CD automation
+* GitHub Actions
+* Azure DevOps
+* Branching strategies
+* Release trains
+* Automated testing
+* Infrastructure as Code
+* Observability
+* Production diagnostics
+* Performance engineering
+* Secure SDLC
+* Code quality and governance
+
+I'm comfortable operating at both levels:
+
+**Architecture Diagram ↔ Production Code**
+
+---
+
+## 🏛️ Architecture Principles
+
+A few principles guide my engineering decisions:
+
+> **Start with the domain, not the technology.**
+
+> **Make boundaries explicit.**
+
+> **Prefer asynchronous communication where it improves resilience and scalability.**
+
+> **Design for failure.**
+
+> **Security is an architectural concern, not a middleware feature.**
+
+> **Observability is part of the system, not an afterthought.**
+
+> **AI should augment engineering judgment, not replace it.**
+
+> **Choose the simplest architecture that satisfies the actual requirements.**
+
+---
+
+## 📐 What You'll Find Here
+
+This profile is evolving into a collection of **architecture reference implementations and engineering experiments** covering:
+
+* Enterprise architecture
+* .NET architecture
+* Distributed systems
+* Azure
+* AI / RAG
+* Agentic workflows
+* Application security
+* DevOps
+* Performance engineering
+* System design
+
+Each substantial project aims to document not only **what was built**, but also:
+
+**Problem → Requirements → Architecture → Trade-offs → Implementation → Security → Scalability → Observability → Testing**
+
+---
+
+## 🎯 Current Areas of Exploration
+
+```text
+Enterprise Architecture
+        │
+        ├── Distributed Systems
+        │      ├── Microservices
+        │      ├── Event-Driven Architecture
+        │      └── Resilience
+        │
+        ├── Cloud
+        │      └── Azure
+        │
+        ├── Security
+        │      ├── Identity
+        │      ├── Zero Trust
+        │      └── Application Security
+        │
+        └── AI
+               ├── RAG
+               ├── LLM Applications
+               ├── Agents
+               └── AI-Assisted Engineering
+```
+
+---
+
+## 👨‍💻 Engineering Philosophy
+
+I enjoy solving problems where **scale, complexity, security, and maintainability intersect**.
+
+The goal isn't to build the most complicated system.
+
+The goal is to build the **right system** — one that can evolve as the business, technology, and engineering organization change.
+
+---
+
+### ⚡ Architect for scale. Build for security. Engineer for change.
+
+**Pavan Kumar**
