@@ -35,6 +35,19 @@ Day to day that means:
 
 ---
 
+### 🧩 Software Design & Distributed Systems
+
+- **Domain-Driven Design** — bounded contexts, aggregates, and ubiquitous language to keep large domains from collapsing into a shared mud ball
+- **Microservices & service boundaries** — decomposing monoliths along team and domain lines, with clear contracts and independent deployability
+- **Event-driven architecture** — pub/sub, event sourcing, and CQRS to decouple services and scale reads/writes independently
+- **Distributed data patterns** — outbox/inbox, sagas, and eventual consistency for transactions that span service boundaries
+- **Resilience patterns** — retries with backoff, circuit breakers, bulkheads, and idempotency to keep failures from cascading
+- **API & messaging design** — REST and gRPC contracts, plus message-broker integration (Service Bus, Kafka-style event streams) for async workflows
+- **Scalability & caching strategy** — horizontal scaling, cache-aside with **Redis**, and load-aware design for high-throughput, multi-tenant systems
+- **Classic design fundamentals** — SOLID, GoF patterns, and clean layering applied pragmatically, not dogmatically, across polyglot codebases
+
+---
+
 ### 🧰 Tech Stack
 
 **Languages**
