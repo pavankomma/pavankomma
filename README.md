@@ -172,6 +172,8 @@ I work across the complete Azure lifecycle rather than treating Azure as simply 
 ### Security & Identity
 
 * Microsoft Entra ID
+* Auth0
+* Okta
 * OAuth 2.0
 * OpenID Connect
 * JWT
