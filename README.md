@@ -42,7 +42,8 @@ Day to day that means:
 - **Event-driven architecture** — pub/sub, event sourcing, and CQRS to decouple services and scale reads/writes independently
 - **Distributed data patterns** — outbox/inbox, sagas, and eventual consistency for transactions that span service boundaries
 - **Resilience patterns** — retries with backoff, circuit breakers, bulkheads, and idempotency to keep failures from cascading
-- **API & messaging design** — REST and gRPC contracts, plus message-broker integration (Service Bus, Kafka-style event streams) for async workflows
+- **API & messaging design** — REST and gRPC contracts, plus message-broker integration (**RabbitMQ**, Service Bus, Kafka-style event streams) for async workflows
+- **Background processing & scheduling** — durable job execution and recurring/cron workloads with **Hangfire** and **Quartz.NET**, from fire-and-forget tasks to multi-step distributed workflows
 - **Scalability & caching strategy** — horizontal scaling, cache-aside with **Redis**, and load-aware design for high-throughput, multi-tenant systems
 - **Classic design fundamentals** — SOLID, GoF patterns, and clean layering applied pragmatically, not dogmatically, across polyglot codebases
 
@@ -81,6 +82,12 @@ Day to day that means:
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Messaging & Background Jobs**
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-004D40?style=flat-square)
+![Quartz.NET](https://img.shields.io/badge/Quartz.NET-3B5998?style=flat-square)
 
 **Testing & Quality**
 
