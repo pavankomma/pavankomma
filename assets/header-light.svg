@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Pavan Kumar Komma, Software Architect and Principal Engineer">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#E9EEF5" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.12" cy="0.4" r="0.55">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#6D28D9"/>
+      <stop offset="0.6" stop-color="#0E7490"/>
+      <stop offset="1" stop-color="#047857"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="300" fill="#FFFFFF"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <rect width="1200" height="300" fill="url(#glow)"/>
+    <rect x="0" y="0" width="1200" height="4" fill="url(#bar)"/>
+    <g transform="matrix(0.866 0.5 -0.866 0.5 975 52)"><rect x="0" y="0" width="150" height="96" rx="10" fill="#047857" fill-opacity="0.18" transform="translate(0 8)"/><rect x="0" y="0" width="150" height="96" rx="10" fill="#E9E4FB" stroke="#047857" stroke-opacity="0.9"><animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4s" begin="0.0s" repeatCount="indefinite" additive="sum"/></rect></g>
+    <line x1="1110.9" y1="119.0" x2="1118.9" y2="119.0" stroke="#047857" stroke-width="1.5"/>
+    <text x="1123" y="123" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#3F4B5F">AI</text>
+    <g transform="matrix(0.866 0.5 -0.866 0.5 975 86)"><rect x="0" y="0" width="150" height="96" rx="10" fill="#0E7490" fill-opacity="0.18" transform="translate(0 8)"/><rect x="0" y="0" width="150" height="96" rx="10" fill="#EDE9FD" stroke="#0E7490" stroke-opacity="0.9"><animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4s" begin="0.5s" repeatCount="indefinite" additive="sum"/></rect></g>
+    <g transform="matrix(0.866 0.5 -0.866 0.5 975 86)"><circle cx="40" cy="30" r="5" fill="#0E7490"/><circle cx="75" cy="55" r="5" fill="#0E7490"/><circle cx="110" cy="30" r="5" fill="#0E7490"/><circle cx="75" cy="80" r="5" fill="#0E7490"/><line x1="75" y1="55" x2="40" y2="30" stroke="#0E7490" stroke-opacity="0.7"/><line x1="75" y1="55" x2="110" y2="30" stroke="#0E7490" stroke-opacity="0.7"/><line x1="75" y1="55" x2="75" y2="80" stroke="#0E7490" stroke-opacity="0.7"/></g>
+    <line x1="1110.9" y1="153.0" x2="1118.9" y2="153.0" stroke="#0E7490" stroke-width="1.5"/>
+    <text x="1123" y="157" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#3F4B5F">Services</text>
+    <g transform="matrix(0.866 0.5 -0.866 0.5 975 120)"><rect x="0" y="0" width="150" height="96" rx="10" fill="#6D28D9" fill-opacity="0.18" transform="translate(0 8)"/><rect x="0" y="0" width="150" height="96" rx="10" fill="#F1EEFE" stroke="#6D28D9" stroke-opacity="0.9"><animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4s" begin="1.0s" repeatCount="indefinite" additive="sum"/></rect></g>
+    <line x1="1110.9" y1="187.0" x2="1118.9" y2="187.0" stroke="#6D28D9" stroke-width="1.5"/>
+    <text x="1123" y="191" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#3F4B5F">Data</text>
+    <g transform="matrix(0.866 0.5 -0.866 0.5 975 154)"><rect x="0" y="0" width="150" height="96" rx="10" fill="#6B7A93" fill-opacity="0.18" transform="translate(0 8)"/><rect x="0" y="0" width="150" height="96" rx="10" fill="#F5F3FF" stroke="#6B7A93" stroke-opacity="0.9"><animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4s" begin="1.5s" repeatCount="indefinite" additive="sum"/></rect></g>
+    <line x1="1110.9" y1="221.0" x2="1118.9" y2="221.0" stroke="#6B7A93" stroke-width="1.5"/>
+    <text x="1123" y="225" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#3F4B5F">Platform</text>
+    <g transform="matrix(0.866 0.5 -0.866 0.5 975 52)"><path d="M75 28 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6 z" fill="#047857"><animate attributeName="opacity" values="1;0.5;1" dur="2.4s" repeatCount="indefinite"/></path></g>
+    <rect x="48" y="58" width="3" height="124" rx="1.5" fill="url(#bar)"/>
+    <text x="66" y="78" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#6D28D9" letter-spacing="3">SOFTWARE ARCHITECT  ·  PRINCIPAL ENGINEER</text>
+    <text x="66" y="136" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="800" fill="#0F172A" letter-spacing="-1">Pavan Kumar Komma</text>
+    <text x="66" y="176" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#3F4B5F">Enterprise platforms  ·  Cloud &amp; distributed systems  ·  Applied AI</text>
+    <rect x="48" y="232" width="94" height="32" rx="16" fill="#F1F5F9" stroke="#C9D3E0"/><text x="95" y="253" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#3F4B5F" text-anchor="middle">15+ years</text>
+    <rect x="152" y="232" width="338" height="32" rx="16" fill="#F1F5F9" stroke="#C9D3E0"/><text x="321" y="253" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#3F4B5F" text-anchor="middle">C# / .NET  ·  Go  ·  Python  ·  TypeScript</text>
+    <rect x="500" y="232" width="124" height="32" rx="16" fill="#F1F5F9" stroke="#C9D3E0"/><text x="562" y="253" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#3F4B5F" text-anchor="middle">Azure  ·  AWS</text>
+    <rect x="634" y="232" width="168" height="32" rx="16" fill="#F1F5F9" stroke="#C9D3E0"/><text x="718" y="253" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#3F4B5F" text-anchor="middle">Distributed systems</text>
+    <rect x="812" y="232" width="146" height="32" rx="16" fill="#F1F5F9" stroke="#C9D3E0"/><text x="885" y="253" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#3F4B5F" text-anchor="middle">RAG &amp; agentic AI</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#C9D3E0"/>
+</svg>
